@@ -3,7 +3,7 @@
 80’li 90’lı yıllarda TRT radyo kanallarının birinde Faruk Yener’in hazırlayıp sunduğu “Her plağın bir öyküsü var” (ilk zamanlarda “Her plağın bir hikayesi var”-dı) başlıklı bir klasik müzik programı vardı. Hem klasik müzik dinletir, hem de dinlettikleri hakkında öyküler, yaşamsal bilgiler, andekdotlar anlatırdı. Anlattıklarının biri de şuydu – 
 
 <!-- ![image](pexels-photo-7547803.jpeg)  -->
-<img align="left" width="27%" height="27%" src="pexels-photo-7547803.jpeg">
+<img align="left" width="27%" height="27%" src="pexels-photo-7547803.jpeg">&nbsp;&nbsp;&nbsp;&nbsp;  
 
 İtalyan orkestra şefi Arturo Toscanini, anadilinden başka birkaç dili gayet iyi konuşurmuş. “Hangisini konuşmayı tercih edersiniz” diye bir soruya şöyle yanıt vermiş: 
 “İş görüşmelerinde İngilizceyi tercih ederim. Birini kızdırmak, korkutmak istediğimde Almanca’ya geçerim. Güzel bir kadınla karşılaştığımda hemen Fransızcaya başlarım. Sabahları aynada traş olurken yüzümü kestiğimde de İtalyanca konuşurum.”
