@@ -1,6 +1,6 @@
 # Türkler ve Mizah
 
-80’li 90’lı yıllardaaa TRT radyo kanallarının birinde Faruk Yener’in hazırlayıp sunduğu “Her plağın bir öyküsü var” (ilk zamanlarda “Her plağın bir hikayesi var”-dı) başlıklı bir klasik müzik programı vardı. Hem klasik müzik dinletir, hem de dinlettikleri hakkında öyküler, yaşamsal bilgiler, andekdotlar anlatırdı. Anlattıklarının biri de şuydu – 
+80’li 90’lı yıllarda TRT radyo kanallarının birinde Faruk Yener’in hazırlayıp sunduğu “Her plağın bir öyküsü var” (ilk zamanlarda “Her plağın bir hikayesi var”-dı) başlıklı bir klasik müzik programı vardı. Hem klasik müzik dinletir, hem de dinlettikleri hakkında öyküler, yaşamsal bilgiler, andekdotlar anlatırdı. Anlattıklarının biri de şuydu – 
 
 <!-- ![image](pexels-photo-7547803.jpeg)  -->
 <img align="left" width="27%" height="27%" src="pexels-photo-7547803.jpeg">&nbsp;&nbsp;&nbsp;&nbsp;  
